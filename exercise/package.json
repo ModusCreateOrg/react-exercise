@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "json-server": "^0.15.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-router": "^4.2.0",
@@ -11,6 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "start:server": "json-server --p 3001 --watch db.json",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
