@@ -29,7 +29,7 @@ export default class Landing extends Component {
           {'Create a route for a users list; name your component "UserList."'}
         </p>
         <p>
-          {'Use https://randomuser.me/ to get the 20 users and display them in a list on the page.'}
+          {'Run the provided server and GET /users to get the 20 users and display them in a list on the page.'}
           {'The properties to be shown in the list items should be:'}
           <dd>
             {'First Name, Last Name, Email, Phone.'}
