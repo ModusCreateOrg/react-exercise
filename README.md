@@ -1,2 +1,2 @@
 # react-exercise
-React exercise for potential Modus Create employees
+React exercise for potential Modus Create team members
